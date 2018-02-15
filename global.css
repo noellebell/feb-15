@@ -1,0 +1,26 @@
+h1, h2 {
+    color: darkblue;
+    font-weight: bold;
+} 
+
+a:link { color: royalblue; }
+a:visited { color:indianred; }
+a:hover { color: purple; }
+a:active { color:red; }
+
+body { background-color: yellowgreen; }
+
+img {
+    width: 100%;
+}
+.image {
+    width: 25%;
+    display: block;
+}
+
+body {
+line-height: 1.4;
+}
+
+body {font-family: 'Montserrat', sans-serif;
+}
